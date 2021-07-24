@@ -1,4 +1,4 @@
-# Contact Keeper API
+# Contact Keeper
 
 With **Contact Keeper**, you can save your contacts with their name,email, phone no, type(public, professional).
 
