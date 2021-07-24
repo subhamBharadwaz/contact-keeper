@@ -10,7 +10,7 @@ With **Contact Keeper**, you can save your contacts with their name,email, phone
 - User can Update already created details
 - User can Delete contact
 
-## Dependencies
+## Server Side Dependencies
 
 1. [Node.js](https://nodejs.org/en/)
 1. [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
