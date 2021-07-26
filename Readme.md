@@ -10,7 +10,11 @@ With **Contact Keeper**, you can save your contacts with their name,email, phone
 - User can Update already created details
 - User can Delete contact
 
-## Server Side Dependencies
+---
+
+## Dependencies
+
+Server Side Dependencies
 
 1. [Node.js](https://nodejs.org/en/)
 1. [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
@@ -23,10 +27,19 @@ With **Contact Keeper**, you can save your contacts with their name,email, phone
 1. [concurrently](https://www.npmjs.com/package/concurrently)
 1. [nodemon](https://www.npmjs.com/package/nodemon)
 
+Client Side Dependencies
+
+1. React
+
+---
+
 ## Tools
 
+1. [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html)
 1. [VS Code](https://code.visualstudio.com/)
-2. [Postman](https://www.postman.com/)
+1. [Postman](https://www.postman.com/)
+
+---
 
 ## Getting Started
 
@@ -36,10 +49,10 @@ With **Contact Keeper**, you can save your contacts with their name,email, phone
 npm install
 ```
 
-### Run Server
+### Run Dev
 
 ```console
-npm run server
+npm run dev
 ```
 
 ### Postman Docs
