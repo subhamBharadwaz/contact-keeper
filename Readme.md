@@ -1,6 +1,6 @@
 # Contact Keeper
 
-With **Contact Keeper**, you can save your contacts with their name,email, phone no, type(public, professional).
+Contact Keeper is a MERN web app. With **Contact Keeper**, you can save your contacts with their name,email, phone no, type(public, professional).
 
 ## Functional Requirements
 
@@ -28,8 +28,6 @@ Server Side Dependencies
 1. [nodemon](https://www.npmjs.com/package/nodemon)
 
 Client Side Dependencies
-
-1. React
 
 ---
 
