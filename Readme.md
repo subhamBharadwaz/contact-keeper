@@ -37,6 +37,14 @@ Server Side Dependencies
 
 Client Side Dependencies
 
+1. [react](https://www.npmjs.com/package/react)
+1. [react-dom](https://www.npmjs.com/package/react-dom)
+1. [react-scripts](https://www.npmjs.com/package/react-scripts)
+1. [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+1. [react-transition-group](https://www.npmjs.com/package/react-transition-group)
+1. [axios](https://www.npmjs.com/package/axios)
+1. [uuid](https://www.npmjs.com/package/uuid)
+
 ---
 
 ## Getting Started
@@ -51,6 +59,18 @@ npm install
 
 ```console
 npm run dev
+```
+
+### Run Server
+
+```console
+npm run server
+```
+
+### Run Client
+
+```console
+npm run client
 ```
 
 ### Postman Docs
