@@ -12,12 +12,20 @@ Contact Keeper is a MERN web app. With **Contact Keeper**, you can save your con
 
 ---
 
+## Tools
+
+1. [Node.js](https://nodejs.org/en/)
+1. [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+1. [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html)
+1. [VS Code](https://code.visualstudio.com/)
+1. [Postman](https://www.postman.com/)
+
+---
+
 ## Dependencies
 
 Server Side Dependencies
 
-1. [Node.js](https://nodejs.org/en/)
-1. [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 1. [Express](https://expressjs.com/)
 1. [bcrypt.js](https://www.npmjs.com/package/bcryptjs)
 1. [config](https://www.npmjs.com/package/config)
@@ -28,14 +36,6 @@ Server Side Dependencies
 1. [nodemon](https://www.npmjs.com/package/nodemon)
 
 Client Side Dependencies
-
----
-
-## Tools
-
-1. [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html)
-1. [VS Code](https://code.visualstudio.com/)
-1. [Postman](https://www.postman.com/)
 
 ---
 
